@@ -1,0 +1,12 @@
+{
+  "name": "student-feedback",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "ng serve"
+  },
+  "dependencies": {
+    "@angular/core": "^15.0.0",
+    "@angular/platform-browser": "^15.0.0",
+    "rxjs": "^7.5.0"
+  }
+}

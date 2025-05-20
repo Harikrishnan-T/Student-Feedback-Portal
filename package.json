@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular/core": "^19.2.11",
+    "@angular/forms": "^19.2.11",
+    "@angular/platform-browser": "^19.2.11",
+    "@nestjs/common": "^11.1.1",
+    "@nestjs/core": "^11.1.1"
+  }
+}
